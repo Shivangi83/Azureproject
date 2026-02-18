@@ -1,0 +1,9 @@
+{
+	"name": "Shivangi-azure-data-lake",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d559c5c0-2e83-4a10-9909-bfdb6525e51a",
+		"tenantId": "95fb278c-a01e-4bcd-b4df-b7cc545a27b0"
+	}
+}
